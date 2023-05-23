@@ -1,0 +1,21 @@
+.color-container {
+  height: 100vh;
+}
+
+.sub-container {
+  width: 300px;
+  height: 200px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.display-color {
+  width: 300px;
+  height: 120px;
+}
+
+.second-div {
+  margin-top: 60px;
+}
